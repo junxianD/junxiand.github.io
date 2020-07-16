@@ -1,5 +1,3 @@
-## 欢迎来到段俊贤的个人主页！
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -9,7 +7,7 @@
       <p><b>联系地址：北京市海淀区中关村东路95号中国科学院自动化研究所</b></p>
     </td>
     <td width="25%">
-      <img src="/人像1.png" width="100%">      
+      <img src="/ID photo.png" width="100%">      
     </td>
   </tr>
 </table>
