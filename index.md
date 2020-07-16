@@ -1,19 +1,148 @@
-## Welcome to GitHub Pages
+## 欢迎来到段俊贤的个人主页！
 
-You can use the [editor on GitHub](https://github.com/junxianD/junxiand.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 段俊贤
+ 
+ - 计算机视觉算法与安全工程师
+ 
+ - 北京市海淀区中关村东路95号中国科学院自动化研究所
+ 
+ - 联系邮箱：duan_jx@qq.com
+ 
+ 
+### 研究方向
+
+#### 网络与信息安全
+
+ - 区块链数字货币反匿名研究
+ 
+ - 区块链数据共享激励机制
+
+
+### 教育经历
+
+#### 2013~2017，中央民族大学，信息工程学院，工学学士
+
+#### 2017~2020，北京理工大学，计算机学院，工学硕士（保研）
+
+
+
+### 研究成果
+
+#### 三篇学术论文，一项计算机软件著作权，一项科技竞赛奖励
+
+- "Blockchain-Based Incentives for Secure and Collaborative Data Sharing in Multiple Clouds", in IEEE Journal on Selected Areas in Communications, vol. 38, no. 6, pp. 1229-1241, June 2020. (IF=11.42)
+
+- "Transaction Deanonymization in Large-Scale Bitcoin Systems via Propagation Pattern Analysis", in the International Conference on Security and Privacy in Digital Economy (SPDE 2020), 录用待发表.
+
+- "Review of Research on Computer Games for Tibetan Chess", 2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th Intl Conf on Pervasive Intelligence and Computing, 2nd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress(DASC/PiCom/DataCom/CyberSciTech), Auckland, 2016, pp. 97-99.
+
+- 机场航站楼登机口与航班匹配系统. 中国计算机软件著作权. 版权号: 2019SR0337867.
+
+- 2018年第15届“华为杯”中国研究生数学建模竞赛三等奖.（国家级）
+
+
+### 荣誉与奖励
+
+#### 研究生期间
+2020.7 北京理工大学2020年优秀硕士学位论文
+
+2020.6 北京市优秀毕业生、校级优秀毕业生
+
+2020.5 北京市三好学生
+
+2019.12 北京理工大学2018-2019年度优秀研究生干部
+
+2019.10 国睿奖学金
+
+2019.9 北京理工大学专业一等奖学金
+
+2019.6 首都大学、中职院校“先锋杯”优秀团员
+
+2019.1 北京理工大学“优秀研究生组织”
+
+2018.12 北京理工大学计算机学院研究生学术论坛优秀论文一等奖
+
+2018.12 北京理工大学2017-2018年度优秀研究生干部
+
+2018.9 北京理工大学专业二等奖学金
+
+2017.12 北京理工大学研究生会先进个人
+
+2017.9 北京理工大学专业一等奖学金
+
+
+#### 本科生期间
+2017.7 带队参加第十一届全国大学生计算机博弈大赛并荣获优秀组织奖，围棋项目冠军，二打一扑克牌一等奖，爱恩斯坦棋二等奖等.
+
+2016-2017学年 中央民族大学专业二等奖学金、中央民族大学学术优秀奖.
+
+2016.8 第十届全国大学生计算机博弈大赛13路围棋二等奖，爱恩斯坦棋三等奖.
+
+2016.4 在京大理州籍“优秀大学生”奖学金.
+
+2016.3 完成国家大学生创新创业训练计划，并以“基于假设检验理论的围棋博弈搜索算法研究及博弈软件的设计与实现”课题结题. 
+
+2015-2016学年 国家民委所属院校国家励志奖学金、中央民族大学专业二等奖学金、中央民族大学学术优秀奖.
+
+2015.9 第三届全国智力运动会十三路围棋项目冠军；九路围棋季军；苏拉卡尔塔棋三等奖.
+
+2015.5 中央民族大学“优秀学生会干部”.
+
+2015.4 中央民族大学“三走”女篮联赛亚军.
+
+2014-2015学年 国家民委所属院校国家励志奖学金、中央民族大学专业二等奖学金、中央民族大学文体优秀奖.
+
+2014.12 首都高校第22届大学生毽绳比赛集体长绳第二名.
+
+2014.11 中央民族大学信息工程学院T.B2奖学金荣获三等奖.
+
+2014.1 第三届和谐中华民族之花选拔活动被评为“白族之花”，中国少数民族艺术基金会.
+
+2013.12 首都高校第21届大学生毽绳比赛集体长绳第三名.
+
+
+### 任职经历
+
+- 2018.5~2019.10 北京理工大学计算机学院  研究生会主席
+
+- 2019.6~2019.9 腾讯科技TEG安全平台部  行业应用实习生
+
+- 2014.10~2017.4 中央民族大学学生处  思政科行政助理
+
+- 2017.4~2017.7 北大方正集团教学设计部  脚本设计实习生
+
+- 2014.4~2017.5 大理州驻京办事处  活动筹备核心人员
+
+
+### 项目经历
+
+- 2018.3-2020.3 面向比特币交易的身份溯源与取证（公安部第三研究所重点实验室开放课题）
+
+- 2018.9-2019.9 基于区块链的互联网征信数据安全共享机制（国家自然基金项目） 
+
+- 2017.6-2018.9 面向比特币系统的交易源地址追踪攻击（CCF-启明星辰科研计划） 
+
+- 2016.9-2018.3 区块链数字货币的反匿名研究（国家信息安全中心项目） 
+
+- 2015.3-2016.3 基于假设检验的围棋博弈搜索算法研究（国家大学生创新项目） 
+
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+
+## 
 ### Header 3
+
+You can use the [editor on GitHub](https://github.com/junxianD/junxiand.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 - Bulleted
 - List
