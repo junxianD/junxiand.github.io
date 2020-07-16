@@ -9,7 +9,7 @@
       <p><b>联系地址：北京市海淀区中关村东路95号中国科学院自动化研究所</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_20190215_003210.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjian.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
