@@ -3,7 +3,7 @@
     <td width="75%">
       <h2>段俊贤</h2>
       <p><b>模式识别国家重点实验室</b></p>
-      <p><b>联系邮箱：duan_jx@qq.com</b></p>
+      <p><b>联系邮箱：junxian.duan@ia.ac.cn</b></p>
       <p><b>联系地址：北京市海淀区中关村东路95号中国科学院自动化研究所</b></p>
     </td>
     <td width="25%">
