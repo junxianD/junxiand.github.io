@@ -1,12 +1,12 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="85%">
       <h2>段俊贤</h2>
       <p><b>模式识别国家重点实验室</b></p>
       <p><b>联系邮箱：junxian.duan@ia.ac.cn</b></p>
       <p><b>联系地址：北京市海淀区中关村东路95号中国科学院自动化研究所</b></p>
     </td>
-    <td width="25%">
+    <td width="15%">
       <img src="/ID photo2.jpeg" width="100%">      
     </td>
   </tr>
