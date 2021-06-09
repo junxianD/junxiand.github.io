@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h2>段俊贤</h2>
       <p><b>模式识别国家重点实验室</b></p>
       <p><b>联系邮箱：junxian.duan@ia.ac.cn</b></p>
