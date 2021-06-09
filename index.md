@@ -6,7 +6,7 @@
       <p><b>联系邮箱：junxian.duan@ia.ac.cn</b></p>
       <p><b>联系地址：北京市海淀区中关村东路95号中国科学院自动化研究所</b></p>
     </td>
-    <td width="25%">
+    <td width="100%">
       <img src="/ID photo2.jpeg" width="100%">      
     </td>
   </tr>
